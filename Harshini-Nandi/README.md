@@ -1,0 +1,53 @@
+```text
+                                  xzXXYXXzzjjXzx
+                                +X%&#Uz=;;;++=jxjj==
+                             jU#Yj=;;=j=;;;::.;; :;;x;+=
+                           XQ%%Oz=;+===+;;;;;;:::. ;.  :=
+                         U#&Qj;..:;+=++;;;;;;;;..;::x=.  +x
+                       jQ&@U;   ..::;;+=======xx++jY#@@%Y;+j
+                      x#&@0j. .:+=xjjjzXzzzYUOOQ00#&@@@@@@X;j
+                     +O&@@X: .+jXYYYYYYXxzz0&&@@@@@@@@@@@@&+.zj
+                    O0#@@%x.:;xXYXzjjjx;=z#@@@@@@@@@@@@@@@@%. X
+                  j0&Oz@@Qx::+=jjxx=:;+zQ%@@@@@@@@@@@@@@@@@@# .x
+                 j0#Y+ &@#x;;+=j=;;:jO%@@@@@@@@@@@@@@@@@@@@@@Y.=
+                 OOX=. %@Ox+;+x=: :Y%@@@%#00000%&@@@@@@@%OXYU#Yz
+                xzxxx=;%@O+::++. +O%&#OXzzx;.    ;X#0##j    =#&Q.
+               xU00#%%XY0x:.;+:.j0%%0XXzjxjx;     +XU0O:   +;:00 :
+              xQ&@@@@@YXOz.;+;:=Q&&%Uj;    .=U  .;x0@@%:   0QxYQXx    Harshini-Nandi@github
+              XQ0#%@@QYXzUXx;;.x#@@@&0Y=;+:.xUjX#0Q&@@@@Y;.+O@@&%Y    --------------------------------------------------------
+             .:;xU#@@zxjYQXxx;.X%@@@@@@@%QOOOQ&@@@%@@@@@@@@&@@@@%Y    . Languages: ........... Java, Jupyter Notebook, HTML, SQL
+            +zUQ#@@@U::XOOzYjx:X0&@@@@@@@@@@@@@@@%%0&@@@@@@@@@@@%Y
+            Q&%#@&0X;+;=QQO#YX;;O0%@@@@@@@@@@@0zY@@&0&@@@%+z0&@@%Y    - Contact ----------------------------------------------
+           U%@@&%Oz==+=+xOQ0OOj;XOQQ0%%%&&&%0jxj=;.  .=0#%+ .xU&Qj    . Email: ........................ harshininandi2@gmail.com
+          Y%&@@&Oz=++xjXjxY#0#j=YOQOUYYzzzjx=X#&#Uj+:;z%@@O  ;Q0j     . GitHub: ...................... github.com/Harshini-Nandi
+         z0&@@&Ujx=+=zjjjx;UY+:jUQQQOUXzjx+.;+=jYUOUOO00z+..O%%Y
+        =U0#QO0Yzx==+jx+++;j+ +jYYYUOOYXYUj+YXzxXYQ###%#Q%jY@&Uj      - GitHub Stats -----------------------------------------
+        UOUOYj+.:;+++;:::. ;; .xjjjzXYYYXXUQ%&&%0OYUOO#@@@@@%Uz       . Repos: .............. 14  |  Stars: ............... 4
+       zUUYXz=:.               +=:  :+xzzjUQ0%@@@%QUUQ%@@@@Yx=        . Forks: ............... 0  |  Followers: ........... 0
+      ;xzjzjx:          .+zU0%O0%QXx;:  .;+zUQ%@@@@@@@@&&&; .         . Commits: ............ 24  |  Contributed: ......... 0
+     .:;;++;.  ;jU0&@@@@@@@&@@@@@@@@@@@0z;   .+jzzYUOUQ%O.            . PRs: ................. 0  |  Issues: .............. 0
+      ..::;;xXO%&@@@@%QUYj;+jzjX#@@#QY0#%#Y=    .j
+     .:.:jU%&@%00##%%##%@@&%%0OU0@@@%0QOO0&#QY=+Y&z
+ jQ00U=xQ%&@%#0%&@@%OjzYYUUzjzzXXU%@@@@@@@@@@#Q%Q#@@#Q
+X0&@OjU@@%YU#@@@@Qj;=XXzYO#Qj=+=+=xzzzXY0@@@@@@@@@#@&Q
+&&0zj#@&UX#@@@@%YXYO#QXYOOOQ00QQXjXz=jOY==zQ&@@@@0U@&Q
+0UxU@@O+U@@@@@@0Oz=xjzXQ%#%%00##0UjjXx;xYUQUXQ%#%&@@&0x
+zxQ@@Y+%@@@@0UUx  .;=j=++xXXXYQ%@@&Ojzzjx=jU0#X+;jU&&0j
+jQ&&Oz@@@@&: =:   zQ%@##YQ&%#OUzzO@@@Y=;jzjx=j0#j+X&#0x
+UUY=X@&@@%  jz .X&@@@@&0U0@@@@@@Ox:jOQQz  :=Xz;jjjY+X0j
+&@z=@@@@#  xO .0@@%&%#@QXU0@@@@@@@Oj  ;Yx   :;+xXOOj%%X
+@X.@@@@Y  =O+;#%QjUOU#&X:O@@&@@#&@@@Y;   .+; ;  ;x0@@&O
+X #@@%j  +Oz O&O+x0#UUQU++0@#&@#0@@@@@@X  .YXX: =#@@@&#z
+ X@@#X;..YQ;0%YUXXjzxU@@#X+UQU&@&0Q%@@&&zj.:&zO  Y@@@@%U
+ @@%QxX.xQzX&XjXzj+XYO#0OzXx+X#&0j;#0@@Q%j. ;j@j j@@@@&0x
+0@@@jYX:X0=zXxx+==jY#@@#+.zQ+ x0#X=+j#@@%O ;+ &&. #@@@&#X
+```
+
+## Hi there 👋
+
+I'm **Harshini Nandi** - I build things with **Java**, **Jupyter Notebooks**, **HTML** and **SQL**.
+
+- 📫 Reach me at **harshininandi2@gmail.com**
+- 🔭 Always learning, always building
+
+<sub>Auto-updated daily by GitHub Actions · last refresh: 2026-10-10 15:59 UTC</sub>

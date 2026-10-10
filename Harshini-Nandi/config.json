@@ -1,0 +1,26 @@
+{
+  "username": "Harshini-Nandi",
+  "display_name": "Harshini Nandi",
+  "email": "harshininandi2@gmail.com",
+  "github_url": "github.com/Harshini-Nandi",
+  "languages": [
+    "Java",
+    "Jupyter Notebook",
+    "HTML",
+    "SQL"
+  ],
+  "panel_width": 56,
+  "fallback_stats": {
+    "repos": 14,
+    "stars": 4,
+    "forks": 0,
+    "followers": 0,
+    "commits": 24,
+    "prs": 0,
+    "issues": 0,
+    "contributed": 0,
+    "reviews": 0,
+    "top_repo": "",
+    "uptime": ""
+  }
+}
